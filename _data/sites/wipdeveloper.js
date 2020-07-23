@@ -2,7 +2,7 @@ module.exports = {
   name: 'wipdeveloper.com', // optional, falls back to object key
   description: 'Personal web site',
   options: {
-    frequency: 60 * 23, // 23 hours
+    frequency: 60 * 1, // 1 hours
     freshChrome: 'site',
   },
   urls: [
