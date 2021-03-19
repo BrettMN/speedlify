@@ -1,6 +1,6 @@
 module.exports = {
   name: '3dprint.gallery/', // optional, falls back to object key
-  description: 'WIPDeveloper.com',
+  description: '3D Print Gallery',
   options: {
     frequency: 60 * 1, // 1 hours
     freshChrome: 'site',
